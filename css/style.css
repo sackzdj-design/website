@@ -543,8 +543,10 @@ https://www.tooplate.com/view/2119-gymso-fitness
   -----------------------------------------*/
 
   .biografia {
-    background: url(/images/back1.png);
+    background: url("https://images.pexels.com/photos/63703/pexels-photo-63703.jpeg");
+    background-size: cover;
     padding: 2rem 0;
+    
   }
   .about_img{
     display: block;
