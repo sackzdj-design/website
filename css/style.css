@@ -543,7 +543,7 @@ https://www.tooplate.com/view/2119-gymso-fitness
   -----------------------------------------*/
 
   .biografia {
-    background: url("https://images.pexels.com/photos/63703/pexels-photo-63703.jpeg");
+    background: url("/images/presskit/sackz-img1.jpg");
     background-size: cover;
     padding: 2rem 0;
     
@@ -552,6 +552,8 @@ https://www.tooplate.com/view/2119-gymso-fitness
     display: block;
     max-width: 250px;
     border-radius: 5px;
+    background: url("/images/presskit/sackz-img1.jpg");
+   
   }
   .abouts{
     padding: 0 35px;
